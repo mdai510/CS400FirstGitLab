@@ -1,5 +1,6 @@
 /*
  *	Color class
+ *	Author: Max Dai, mdai37@wisc.edu, maxd
  */
 public class Color{
 	private String color;

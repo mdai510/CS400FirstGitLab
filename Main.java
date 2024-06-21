@@ -1,5 +1,6 @@
 /*
  * Test the use of the Color method
+ * Author: Max Dai, mdai37@wisc.edu, maxd
  */
 import java.util.*;
 
